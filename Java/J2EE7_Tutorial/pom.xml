@@ -12,6 +12,7 @@
     <modules>
         <module>JSF/GuessNumber</module>
         <module>JSF/TemplatesJSF</module>
+        <module>JSF/CompositeJSF</module>
     </modules>
 
     <dependencies>
