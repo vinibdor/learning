@@ -13,6 +13,7 @@
         <module>JSF/GuessNumber</module>
         <module>JSF/TemplatesJSF</module>
         <module>JSF/CompositeJSF</module>
+        <module>JSF/AddressLib</module>
     </modules>
 
     <dependencies>
