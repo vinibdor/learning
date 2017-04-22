@@ -14,6 +14,7 @@
         <module>JSF/TemplatesJSF</module>
         <module>JSF/CompositeJSF</module>
         <module>JSF/AddressLib</module>
+        <module>JSF/RelocResource</module>
     </modules>
 
     <dependencies>
